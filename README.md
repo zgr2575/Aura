@@ -1,72 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aura - Discord-Roblox Ranking Bot</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        .badge {
-            display: inline-block;
-            padding: 5px 10px;
-            margin: 5px;
-            border-radius: 5px;
-            background: #ddd;
-        }
-    </style>
-</head>
-<body>
+![Aura Banner](https://media.discordapp.net/attachments/1071227120908517388/1354571729866981526/image.png?ex=67e5c6bb&is=67e4753b&hm=9b73b52d5e2b33b2e4d28327b28f0c7ae4ee54a07021dc1f3ffde05dcccb1332&=&format=webp&quality=lossless&width=1136&height=513)
 
-<div class="container">
-    <img src="https://i.gyazo.com/5f7d15ac56be78b2c294e0fa1f9d4b10.png" alt="Aura Banner" width="100%">
+# Aura - Discord-Roblox Ranking Bot  
 
-    <h1>Aura - Discord-Roblox Ranking Bot</h1>
-    <p>An easy-to-use, free, and unbranded ranking bot for Roblox groups on Discord. Aura is a fork of QBot, built with powerful features and a modular system. All support is provided exclusively by us.</p>
+**Aura** is a free and easy-to-use ranking bot for managing Roblox groups on Discord. It is a fork of QBot, built with powerful features and a modular system. All support is provided **exclusively by us**.
 
-    <div>
-        <span class="badge">License: <a href="https://github.com/LengoLabs/qbot/blob/master/LICENSE">MIT</a></span>
-        <span class="badge">Node.js v16+</span>
-    </div>
+## 🚀 Features  
+- Automatic ranking for Roblox groups via Discord  
+- Easy setup and configuration  
+- Secure and reliable performance  
+- Completely free and unbranded  
 
-    <h2>Installation</h2>
-    <p>Follow the setup guide at <strong>[Insert Aura Documentation Link]</strong>. Aura can be hosted on any platform that supports Node.js v16+ and operates from the same IP region as the bot owner.</p>
+## 📥 Installation  
+Follow the setup guide at **[Insert Aura Documentation Link]**. Aura can be hosted on any platform that supports **Node.js v16+** and operates from the same IP region as the bot owner.
 
-    <h2>License</h2>
-    <p>Aura uses the <strong>MIT License</strong>. You can read the full license <a href="https://github.com/LengoLabs/qbot/blob/master/LICENSE">here</a>. This allows flexibility while maintaining legal compliance.</p>
+## 📜 License  
+Aura uses the **MIT License**, allowing flexibility while maintaining legal compliance.  
+Read the full license [here](https://github.com/LengoLabs/qbot/blob/master/LICENSE).  
 
-    <h2>Discord API Policy</h2>
-    <p>Before using Aura, review the <a href="https://discord.com/developers/docs/legal">Discord API Terms</a>. Ensure you comply with data privacy laws by implementing a privacy policy for your bot.</p>
+## ⚠️ Discord API Policy  
+Before using Aura, review the [Discord API Terms](https://discord.com/developers/docs/legal).  
+Ensure you comply with data privacy laws by implementing a privacy policy for your bot.
 
-    <h2>Feedback & Contributions</h2>
-    <p>Have suggestions? We'd love to hear them! Currently, contributions are managed internally.</p>
+## 💡 Feedback & Contributions  
+Have suggestions? We'd love to hear them! Currently, contributions are managed internally.
 
-    <h2>Important Notes</h2>
-    <ul>
-        <li>Aura is not affiliated with Discord, Inc.</li>
-        <li>Aura is not affiliated with Roblox Corporation.</li>
-    </ul>
-</div>
+## ❗ Important Notes  
+- Aura is **not** affiliated with Discord, Inc.  
+- Aura is **not** affiliated with Roblox Corporation.  
 
-</body>
-</html>
+---
+Made with ❤️ by the Aura Team.
