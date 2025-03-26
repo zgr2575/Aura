@@ -21,8 +21,9 @@ Read the full license [here](https://github.com/LengoLabs/qbot/blob/master/LICEN
 Before using Aura, review the [Discord API Terms](https://discord.com/developers/docs/legal).  
 Ensure you comply with data privacy laws by implementing a privacy policy for your bot.
 
-## 💡 Feedback & Contributions  
-Have suggestions? We'd love to hear them! Currently, contributions are managed internally.
+## 💡 Feedback & Support  
+Have suggestions or need help? Join our **official support server**:  
+[![Discord](https://img.shields.io/badge/Discord-Support%20Server-blue?style=flat&logo=discord)](https://discord.gg/muK5upKSVW)
 
 ## ❗ Important Notes  
 - Aura is **not** affiliated with Discord, Inc.  
