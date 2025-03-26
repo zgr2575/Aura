@@ -27,7 +27,8 @@ Have suggestions or need help? Join our **official support server**:
 
 ## ❗ Important Notes  
 - Aura is **not** affiliated with Discord, Inc.  
-- Aura is **not** affiliated with Roblox Corporation.  
+- Aura is **not** affiliated with Roblox Corporation.
+- Aura is **not** affiliated with QBot or LengoLabs.
 
 ---
 Made with ❤️ by the Aura Team.
