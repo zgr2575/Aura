@@ -1,6 +1,6 @@
 {
-  "name": "qbot",
-  "version": "7.4.0",
+  "name": "Aura +",
+  "version": "1",
   "description": "The most advanced Discord to Roblox ranking bot available, open source and free, without any branding.",
   "main": "src/main.ts",
   "scripts": {
@@ -11,7 +11,7 @@
     "resetSlashCmds": "echo [] > src/resources/commands.json",
     "update": "git fetch && git reset --hard origin/master && git pull"
   },
-  "author": "LengoLabs",
+  "author": "ZADMIN",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.15",
